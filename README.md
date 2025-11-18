@@ -12,8 +12,8 @@ By the end of this lab, you will:
 
 ## 📊 The Labs
 
-### Python & Pandas Foundations
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSC-2053-100-Fall25/python-datascience-template/blob/main/Lab1_Python_Pandas_Foundations.ipynb)
+### Predicting Radio Signal Strengths
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSC-2053-100-Fall25/python-ml-template/blob/main/radio_ml_lab.ipynb)
 
 1. Click the "Open in Colab" badge above
 2. The notebook will open in Google Colab
