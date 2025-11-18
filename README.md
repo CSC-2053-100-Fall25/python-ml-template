@@ -1,16 +1,23 @@
-# Week 12: Python Machine Learning
+# Week 12: Python Maps and Machine Learning
 ## CSC 2053 - Platform Based Computing - Lab 13
 
 ### Learning Objectives
 By the end of this lab, you will:
-1. Understand the basic ML workflow: data → features → model → evaluation
-2. Build and evaluate regression models using scikit-learn
-3. Compare model performance using metrics like R² and RMSE
-4. Practice feature engineering to improve predictions
+1. Creating interactive maps with Folium
+2. Adding markers with custom popups and tooltips
+3. rganizing data with layer controls
+4. Advanced features: clustering, circles, heatmaps
+5. Understand the basic ML workflow: data → features → model → evaluation
+6. Build and evaluate regression models using scikit-learn
+7. Compare model performance using metrics like R² and RMSE
+8. Practice feature engineering to improve predictions
 
 ---
 
 ## 📊 The Labs
+
+### Interactive Mapping - Visualizing Sports Radio Networks
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSC-2053-100-Fall25/python-ml-template/blob/main/interactive_mapping.ipynb)
 
 ### Predicting Radio Signal Strengths
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSC-2053-100-Fall25/python-ml-template/blob/main/radio_ml_lab.ipynb)
